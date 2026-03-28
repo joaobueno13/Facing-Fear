@@ -5,7 +5,7 @@
 **Facing Fear** é um jogo cooperativo de terror multiplayer para até 4 jogadores, inspirado em títulos como **Devour** e **Phasmophobia**. A proposta é simples: sobreviva às suas próprias fobias e escape antes que elas te consumam — tudo isso enquanto tenta não rir dos seus amigos morrendo de medo.
 
 <p align="center">
-  <img src="https://img.itch.zone/aW1hZ2UvMjUwMzczOS8xNTEzOTQ4NS5wbmc=/347x500/KLr6gm.png" width="340" alt="Facing Fear Screenshot 1" />
+  <img src="https://img.itch.zone/aW1nLzE1MTQwMTc1LmpwZw==/original/Rk%2FGbS.jpg" width="340" alt="Facing Fear Screenshot 1" />
   &nbsp;&nbsp;&nbsp;
   <img src="https://img.itch.zone/aW1hZ2UvMjUwMzczOS8xNTEzOTQ4Ny5wbmc=/347x500/MtcWW6.png" width="340" alt="Facing Fear Screenshot 2" />
 </p>
